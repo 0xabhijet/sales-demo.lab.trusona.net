@@ -1,2 +1,2 @@
-# sales-demo.lab.trusona.net
-Subdomain Takeover
+
+Subdomain Takeover by abhijeet
